@@ -10,8 +10,7 @@ My conclusion about the primary previous limiter for MC-AIXI's is:
 
 - An computationally affordable exploration method, that consists not of random exploration!!
 Even when it would cost some precious calculations, random exploring exhibits the same intelligence as a toast that has not yet been toasted.
-Intelligent exploration makes up the other 50% of an RE agent's intelligent behavior. Random exploration becomes in later stages so ineffective and unneficient
-for environments that consists of challenging state spaces (like playing partially observable pacman).
+Intelligent exploration makes up the other 50% of an RE agent's intelligent behavior. Random exploration becomes in later stages so ineffective and inefficient for environments that consists of challenging state spaces (like playing partially observable pacman).
 
 The solution for this has been worked out in the paper: A Strongly Asymptotically Optimal Agent in General Environments.  
 Available at arXiv.org under the serial arXiv:1903.01021
