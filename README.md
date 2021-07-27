@@ -2,7 +2,7 @@
 This place primary prupose is to hold my ideas about this topic and to act as an initial sparking point to create useable, effective AIXI approximations. 
 Don't forget the option to spot possible conclusion errors or similiar. 
 I can also provide some terminal prompt commands in order to provide information on how to get started, such as how to compile Joel Venness's implementation.
-When I succesfully manage to code the required changes, they will of course also be found here. I'm unfortunately not that experienced in programming.
+When I succesfully manage to [code the required changes, (licenses still to be clarified)], they will of course also be found here. I'm unfortunately not that experienced in programming.
 
 ## Main problem of current MC-AIXI approximations
 According to my understanding the theory for how to build quite capable MC-AIXI's has been already elaborated by insanely intelligent humans.
