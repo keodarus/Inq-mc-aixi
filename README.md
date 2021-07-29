@@ -16,7 +16,7 @@ The solution for this has been worked out in the paper: A Strongly Asymptoticall
 Available at arXiv.org under the serial arXiv:1903.01021
 
 ## Overview of existing work
-- There is one open source C++ MC (FAC-CTW) AIXI agent approximation out there. Because it's capable of performing multi thread MC tree search, it's a very important work. The creator is Joel Veness, his work can be downloaded from his homepage.
+- There is one open source C++ MC (FAC-CTW) AIXI agent approximation out there, that is capable of performing multi thread MC tree search. This makes it a very important work. The creator is Joel Veness, his work can be downloaded from his homepage.
 - A javaScript demo implementing an Inq-MC-AIXI agent approximation + demo environment. It's license is GPL-3.0.  
 Found at GitHub: ejcatt/aixijs  ---> It's also very helpful since it is implementing the Inq algorithmus in programming language.  
 
